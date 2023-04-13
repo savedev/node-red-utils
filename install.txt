@@ -1,0 +1,5 @@
+Stack development software:
+
+Windows_NT 10.0.22621 x64 LE
+Node.js  version: v18.12.1
+Node-RED version: v3.0.2
